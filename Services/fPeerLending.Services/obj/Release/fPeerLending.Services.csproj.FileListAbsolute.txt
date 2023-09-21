@@ -1,0 +1,5 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.pdb
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Release\fPeerLending.Services.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Release\fPeerLending.Services.dll
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Release\fPeerLending.Services.pdb

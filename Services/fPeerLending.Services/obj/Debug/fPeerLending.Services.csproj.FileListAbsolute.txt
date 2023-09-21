@@ -1,0 +1,20 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.pdb
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.dll
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.pdb
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.pdb
+D:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.dll
+D:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Services.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Services.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Services\fPeerLending.Services\obj\Debug\fPeerLending.Services.pdb

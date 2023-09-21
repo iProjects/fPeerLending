@@ -1,0 +1,20 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.Contracts.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.Contracts.pdb
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.dll
+C:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.Contracts.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.Contracts.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.Contracts.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Services.Contracts.pdb
+D:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.dll
+D:\My Projects\fanikiwa\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Services.Contracts.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Services.Contracts.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Services\fPeerLending.Services.Contracts\obj\Debug\fPeerLending.Services.Contracts.pdb

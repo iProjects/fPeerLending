@@ -1,0 +1,30 @@
+C:\My Projects\fanikiwa\bin\MemberDACUnitTestProject.dll.config
+C:\My Projects\fanikiwa\bin\MemberDACUnitTestProject.dll
+C:\My Projects\fanikiwa\bin\MemberDACUnitTestProject.pdb
+C:\My Projects\fanikiwa\fPeerLending\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.dll
+C:\My Projects\fanikiwa\fPeerLending\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.pdb
+C:\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.dll.config
+C:\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.pdb
+C:\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.dll
+C:\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.dll.config
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.dll.config
+D:\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\MemberDACUnitTestProject.pdb
+D:\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.dll
+D:\My Projects\fanikiwa\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\MemberDACUnitTestProject.dll.config
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\MemberDACUnitTestProject.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\MemberDACUnitTestProject.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Tests\MemberDACUnitTestProject\obj\Debug\MemberDACUnitTestProject.pdb

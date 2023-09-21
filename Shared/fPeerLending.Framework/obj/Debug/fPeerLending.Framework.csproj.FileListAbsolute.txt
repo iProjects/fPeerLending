@@ -1,0 +1,19 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Framework.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Framework.pdb
+C:\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.dll
+C:\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Framework.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Framework.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Framework.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Framework.pdb
+D:\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.dll
+D:\My Projects\fanikiwa\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Framework.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Framework.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Shared\fPeerLending.Framework\obj\Debug\fPeerLending.Framework.pdb
