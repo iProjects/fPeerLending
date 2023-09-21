@@ -1,0 +1,21 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Hosts.WcfHost.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Hosts.WcfHost.pdb
+C:\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.dll
+C:\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Hosts.WcfHost.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Hosts.WcfHost.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Hosts.WcfHost.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Hosts.WcfHost.pdb
+D:\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.dll
+D:\My Projects\fanikiwa\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Hosts.WcfHost.dll.config
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Hosts.WcfHost.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Hosts.WcfHost.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Hosts\fPeerLending.Hosts.WcfHost\obj\Debug\fPeerLending.Hosts.WcfHost.pdb

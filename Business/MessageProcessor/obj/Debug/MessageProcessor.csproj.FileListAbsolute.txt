@@ -1,0 +1,20 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.pdb
+C:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\MessageProcessor.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.dll
+C:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\MessageProcessor.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.pdb
+D:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\MessageProcessor.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.dll
+D:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.MessageProcessor.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.MessageProcessor.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Business\MessageProcessor\obj\Debug\MessageProcessor.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Business\MessageProcessor\obj\Debug\fPeerLending.MessageProcessor.pdb

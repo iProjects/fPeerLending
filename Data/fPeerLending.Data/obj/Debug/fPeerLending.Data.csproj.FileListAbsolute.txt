@@ -1,0 +1,20 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Data.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Data.pdb
+C:\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.dll
+C:\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Data.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Data.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.csprojResolveAssemblyReference.cache
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Data.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Data.pdb
+D:\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.csprojResolveAssemblyReference.cache
+D:\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.dll
+D:\My Projects\fanikiwa\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Data.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Data.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Data\fPeerLending.Data\obj\Debug\fPeerLending.Data.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fUsers;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="default-Web.config Connection String" description="default Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fanikiwaDB;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='default']/@connectionString" />
+  </parameter>
+  <parameter name="fanikiwaDB-Web.config Connection String" description="fanikiwaDB Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fanikiwaDB;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='fanikiwaDB']/@connectionString" />
+  </parameter>
+  <parameter name="fPeerLending-Web.config Connection String" description="fPeerLending Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fanikiwaDB;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='fPeerLending']/@connectionString" />
+  </parameter>
+  <parameter name="fGL-Web.config Connection String" description="fGL Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fGL;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='fGL']/@connectionString" />
+  </parameter>
+  <parameter name="fDiary-Web.config Connection String" description="fDiary Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fDiary;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='fDiary']/@connectionString" />
+  </parameter>
+  <parameter name="fMessage-Web.config Connection String" description="fMessage Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fMessage;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='fMessage']/@connectionString" />
+  </parameter>
+  <parameter name="fUsers-Web.config Connection String" description="fUsers Connection String used in web.config by the application to access the database." defaultValue="server=.\sqlexpress;database=fUsers;uid=sa;password=sa;multipleactiveresultsets=false" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\My\ Projects\\fanikiwa\\fPeerLending\\Hosts\\fPeerLending\.Hosts\.WcfHost\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='fUsers']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,4 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.pdb
+C:\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Release\fPeerLending.Entities.dll
+C:\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Release\fPeerLending.Entities.pdb

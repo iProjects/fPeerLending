@@ -1,0 +1,17 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.pdb
+C:\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.dll
+C:\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.pdb
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.dll
+\\Sapserver\c\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.pdb
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.dll
+D:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.Entities.pdb
+D:\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.dll
+D:\My Projects\fanikiwa\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Entities.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\bin\fPeerLending.Entities.pdb
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.dll
+D:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fPeerLending\Business\fPeerLending.Entities\obj\Debug\fPeerLending.Entities.pdb

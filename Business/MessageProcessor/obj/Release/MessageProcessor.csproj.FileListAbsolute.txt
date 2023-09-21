@@ -1,0 +1,5 @@
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.dll
+C:\My Projects\fanikiwa\fPeerLending\bin\fPeerLending.MessageProcessor.pdb
+C:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Release\MessageProcessor.csprojResolveAssemblyReference.cache
+C:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Release\fPeerLending.MessageProcessor.dll
+C:\My Projects\fanikiwa\fPeerLending\Business\MessageProcessor\obj\Release\fPeerLending.MessageProcessor.pdb
